@@ -9,4 +9,4 @@ This work was based on the Ruby driver for Sahi.
 I am not affiliated with Sahi or Tyto Software and this work was completed
 independently.
 
-*Note:* This requires python version 3 or above
+Note: This requires python version 3 or above
